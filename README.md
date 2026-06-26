@@ -33,6 +33,17 @@ I am a retired U.S. Army veteran transitioning into cybersecurity. This reposito
 - NGT Academy
 - Home Cybersecurity Lab
 
+
+## 🖥️ Home Lab
+
+- Windows 11 Workstation
+- Kali Linux
+- VirtualBox
+- GitHub
+- Hack The Box
+- Wireshark
+- Nmap
+
 ---
 
 ## Repository Structure
@@ -57,6 +68,16 @@ cyber-portfolio
 ## Career Goal
 
 My goal is to obtain a SOC Analyst position where I can continue developing my skills in threat detection, incident response, and security monitoring.
+
+
+
+## 📂 Featured Projects
+
+- Cybersecurity Portfolio
+- Home Lab Documentation *(Coming Soon)*
+- Hack The Box Write-ups *(Following HTB guidelines)*
+- Nmap Labs
+- Wireshark Labs
 
 ---
 
